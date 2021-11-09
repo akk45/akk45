@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akk45
-- 👀 I’m interested in cryto, nft, web3, and future of work.
+- 👀 I’m interested in crypto, nft, web3, and future of work.
 - 🌱 I’m currently learning Java and CFA level 3.
 - 💞️ I’m looking to collaborate on Regtech/Legaltech and DeFi projects.
 - 📫 How to reach me ...
